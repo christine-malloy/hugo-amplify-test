@@ -1,6 +1,5 @@
 +++
 date = '2025-03-27T20:58:04-04:00'
-draft = true
 title = 'Test'
 +++
 # Welcome to My Test Post
